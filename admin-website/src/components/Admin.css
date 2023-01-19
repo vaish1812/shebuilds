@@ -1,0 +1,15 @@
+.admin-page{
+    width:100vw;
+    height: 100vh;
+    background-color: rgb(249, 163, 193);
+}
+.user-table{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    padding-top: 10%;
+}
+.heading{
+    margin-bottom: 5%;
+}
